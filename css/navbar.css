@@ -1,0 +1,27 @@
+#navigation-bar{
+    margin-top: -17px;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: center;
+    background-color: grey;
+    padding: 15px;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+nav ul li a:hover {
+    color: black;
+    
+}

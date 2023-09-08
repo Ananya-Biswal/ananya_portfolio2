@@ -1,0 +1,12 @@
+footer {
+    text-align: center;
+    background-color: rgba(7, 7, 7, 0.842);
+    color: #fff;
+    padding: 10px;
+}
+
+#contact span a i{
+    font-size: 25px;
+    margin: 5px;
+    color: white;
+}

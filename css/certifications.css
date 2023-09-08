@@ -1,0 +1,45 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #F5E1ED;
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    padding: 20px;
+}
+
+.certificates {
+    padding: 0px;
+}
+
+.certificate-group {
+    display: flex;
+    flex-wrap: wrap; /* Allow items to wrap to the next row */
+    justify-content: space-between; /* Distribute items evenly horizontally */
+}
+
+.certificate {
+    width: 30%;
+    margin-bottom: 20px;
+    text-align: center;
+    margin-right: 20px;
+}
+
+.certificate img {
+    width: 100%;
+    height: auto;
+    border: 10px black ridge;
+}
+
+.certificate h2 {
+    
+    font-size: 16px;
+    text-align: center;
+    margin: 0;
+}
+
+
+.blank-div{
+    height: 100px;
+}
